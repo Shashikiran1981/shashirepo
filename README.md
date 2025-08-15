@@ -1,3 +1,3 @@
 # shashirepo
 This is my first Git Repository.
-Author - Shashi Kiran
+<p>Author - Shashi Kiran</p>
